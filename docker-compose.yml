@@ -1,8 +1,8 @@
 version: '3.4'
 
 services:
-  raxian-forge:
-    image: raxian-forge
+  corian-forge:
+    image: corian-forge
     build:
       context: .
       dockerfile: ./Dockerfile
